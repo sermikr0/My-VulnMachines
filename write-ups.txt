@@ -1,0 +1,15 @@
+Advanced Machines
+
+AuthMe  => https://www.notion.so/AuthMe-1b4c4193ecb080ae8560ef853fa7b863
+WireShid => https://www.notion.so/WireShid-1b5c4193ecb0805185e6df7a12d053c1
+FireJens => https://www.notion.so/FireJens-1b6c4193ecb080a7b36bd651677ed380
+WinWar  => https://www.notion.so/WinWar-1b9c4193ecb0804780bee64cd3111ce8
+EasyHot => https://www.notion.so/EasyHot-1b9c4193ecb08000a376d395303315f3
+EcoHack => https://www.notion.so/EcoHack-1c2c4193ecb080a6bf25c5fe3a882180
+Nightwalker => https://www.notion.so/Nightwalker-1c3c4193ecb080d9996be847809c2fd4
+Zerosti =>  https://www.notion.so/Zerosti-1d0c4193ecb080c6be51c81f6cc3a9e4
+
+
+40 CTFs
+
+https://www.notion.so/40-CTF-1f1c4193ecb080deaf48c3828a9e368e
